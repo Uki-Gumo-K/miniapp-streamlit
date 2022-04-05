@@ -1,7 +1,7 @@
 #moduleのインポート
-from cgitb import text
-from signal import setitimer
-from turtle import left
+# from cgitb import text
+# from signal import setitimer
+# from turtle import left
 import streamlit as st
 import time
 import math
